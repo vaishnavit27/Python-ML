@@ -3,7 +3,7 @@
 
 print("Q4 of assignemt 3")
 def default_return():
-    print("Hello world")
+    print("")
 
 
 default_return()
